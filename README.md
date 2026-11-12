@@ -1,0 +1,43 @@
+# Seva Bots
+
+A team of AI helpers on your computer that speak Punjabi and English.
+
+- **Talk in Punjabi or English.** Voice can run on your own Mac.
+- **Search Gurbani.** Find a shabad from a few words in Gurmukhi or roman letters. Every answer shows Ang, raag and writer.
+- **Real work.** Email, files, reminders, accounts. Anything that changes your data asks you first.
+- **Honest reports.** A tester bot checks each job and tells you when something failed.
+- **Your choice of brain.** A free local model, or a low-cost API key such as DeepSeek.
+
+Website: **https://sevabots.com**
+
+## Download
+
+Get the latest version from [Releases](https://github.com/gurpreetsingh5523-source/seva-bots/releases/latest).
+
+| System | File |
+|---|---|
+| Mac with Apple Silicon (M1 or newer) | `SevaBots-<version>-arm64.dmg` |
+| Windows 10/11 | coming soon |
+
+### Install on Mac
+
+1. Open the `.dmg` and drag **Seva Bots** to Applications.
+2. The app is not yet notarized by Apple. On first launch, right-click the app and choose **Open**, then **Open** again.
+3. Pick a brain (a local model or an API key) and say "Sat Sri Akal" to Kirpa Singh.
+
+The app checks this page for new versions and offers to update itself.
+
+## Help
+
+- [Approval levels](docs/approval-levels.md)
+- [Choosing tools for a bot](docs/tool-selection.md)
+- [Analytics and privacy](docs/analytics.md)
+- [Self-hosting](docs/self-hosting.md), [your own VPS](docs/byo-vps.md), [VPS deploy](docs/deploy-vps.md), [Linux desktop](docs/linux-desktop.md)
+
+Questions or ideas: [open an issue](https://github.com/gurpreetsingh5523-source/seva-bots/issues/new) or email hello@sevabots.com.
+
+## Licence
+
+Seva Bots is built on [OpenMausBot](https://github.com/milind-soni/OpenMausBot) and is released under the Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+No images of the Gurus are used anywhere in this project.
