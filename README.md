@@ -22,7 +22,7 @@ Get the latest version from [Releases](https://github.com/gurpreetsingh5523-sour
 ### Install on Mac
 
 1. Open the `.dmg` and drag **Seva Bots** to Applications.
-2. The app is not yet notarized by Apple. On first launch, right-click the app and choose **Open**, then **Open** again.
+2. Open **Seva Bots**. The app is not yet notarized by Apple, so macOS stops it the first time. Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to "SevaBots", then confirm. You only do this once.
 3. Pick a brain (a local model or an API key) and say "Sat Sri Akal" to Kirpa Singh.
 
 The app checks this page for new versions and offers to update itself.
